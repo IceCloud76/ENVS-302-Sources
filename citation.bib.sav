@@ -23,7 +23,7 @@
   volume    = {46},
   groups    = {Amur Tigers, Predator decline},
   publisher = {Wildlife Disease Association},
-  url       = {https://bioone.org/journals/Journal-of-Wildlife-Diseases/volume-46/issue-4/0090-3558-46.4.1252/Morbillivirus-Infection-in-a-Wild-Siberian-Tiger-in-the-Russian/10.7589/0090-3558-46.4.1252.pdf},
+  url       = {https://meridian.allenpress.com/jwd/article-pdf/46/4/1252/2239221/0090-3558-46_4_1252.pdf},
 }
 
 @Article{Tian2014,
@@ -106,7 +106,7 @@
 @Article{russello2004potential,
   author    = {Russello, Michael A and Gladyshev, Eugene and Miquelle, Dale and Caccone, Adalgisa},
   journal   = {Conservation Genetics},
-  title     = {Potential genetic consequences of a recent bottleneck in the Amur tiger of},
+  title     = {Potential genetic consequences of a recent bottleneck in the Amur tiger of the far east},
   year      = {2004},
   number    = {5},
   pages     = {707--713},
@@ -117,7 +117,7 @@
 }
 
 @Article{wang2018living,
-  author    = {Wang, Tianming and Royle, J Andrew and Smith, James LD and Zou, Liang and L{\"u}, Xinyue and Li, Tong and Yang, Haitao and Li, Zhilin and Feng, Rongna and Bian, Yajing and others},
+  author    = {Wang, Tianming and Royle, J Andrew and Smith, James LD and Zou, Liang and Lu, Xinyue and Li, Tong and Yang, Haitao and Li, Zhilin and Feng, Rongna and Bian, Yajing and others},
   journal   = {Biological Conservation},
   title     = {Living on the edge: Opportunities for Amur tiger recovery in China},
   year      = {2018},
@@ -346,7 +346,7 @@
 @Article{hebblewhite2012there,
   author    = {Hebblewhite, M and Zimmermann, F and Li, Z and Miquelle, DG and Zhang, M and Sun, H and M{\"o}rschel, F and Wu, Z and Sheng, L and Purekhovsky, A and others},
   journal   = {Animal Conservation},
-  title     = {Is there a future for A mur tigers in a restored tiger conservation landscape in Northeast China?},
+  title     = {Is there a future for Amur tigers in a restored tiger conservation landscape in Northeast China?},
   year      = {2012},
   number    = {6},
   pages     = {579--592},
